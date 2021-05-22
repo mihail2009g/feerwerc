@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+header {
+ background-color:#00FFFF ;
+}
+h1 {
+ text-align: center;
+ background-color:#00FFFF ;
+ color: #00008B;   
+}
+footer p {
+    background-color: #00FF00;
+    padding: 5px;
+    }
+footer {
+    border: 5px solid white;
+}
+nav a {
+   background-color: #00FF00; 
+   margin: 5px;
+   border-radius: 50px;
+   text-decoration: none;
+   border: 2px solid #00FF00;
+}
+.text {
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+}
